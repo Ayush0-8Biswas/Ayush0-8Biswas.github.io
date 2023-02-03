@@ -43,9 +43,16 @@
 &nbsp;&nbsp;&nbsp;<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=veryshyjelly&show_icons=true&locale=en&layout=compact&title_color=blue" alt="veryshyjelly" /></p>
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=veryshyjelly&show_icons=true&locale=en&layout=compact&title_color=blue&theme=radical">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=veryshyjelly&show_icons=true&locale=en&layout=compact&title_color=blue">
+</picture>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=veryshyjelly&show_icons=true&locale=en&title_color=blue" alt="veryshyjelly" /></p>
+<picture>
+ &nbsp;
+ <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=veryshyjelly&show_icons=true&locale=en&title_color=blue&theme=radical">
+ <img src="https://github-readme-stats.vercel.app/api?username=veryshyjelly&show_icons=true&locale=en&title_color=blue">
+</picture>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veryshyjelly&label=Profile%20views&color=0e75b6&style=flat" alt="veryshyjelly" /> </p>
 
