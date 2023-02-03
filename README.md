@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linedin.com/in/veryshyjelly" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="veryshyjelly" height="28" width="28"/></a>
 <a href="https://twitter.com/veryshyjelly" target="blank"><img align="center" src="https://www.svgrepo.com/show/475689/twitter-color.svg" alt="veryshyjelly" height="28" width="28" /></a>
-<a href="https://fb.com/veryshyjelly" target="blank"><img align="center" src="https://www.svgrepo.com/show/475647/facebook-color.svg" alt="veryshyjelly" height="28" width="28" /></a>
+<a href="https://fb.com/veryshyjelly" target="blank"><img align="center" src="https://www.svgrepo.com/show/448224/facebook.svg" alt="veryshyjelly" height="28" width="28" /></a>
 <a href="https://instagram.com/veryshyjelly" target="blank"><img align="center" src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="veryshyjelly" height="28" width="28" /></a>
 <a href="https://www.leetcode.com/veryshyjelly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="veryshyjelly" height="28" width="28" /></a>
 <a href="https://codepen.io/veryshyjelly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="veryshyjelly" height="28" width="28" /></a>
