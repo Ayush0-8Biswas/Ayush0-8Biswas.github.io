@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **veryshyjelly@gmail.com**
 
-- ⚡ Fun fact **I think I am not funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 &nbsp;&nbsp;&nbsp;<a href="https://linedin.com/in/veryshyjelly" target="_blank" ><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="veryshyjelly" height="28" width="28"/></a> 
