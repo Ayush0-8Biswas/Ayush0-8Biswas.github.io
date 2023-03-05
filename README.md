@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [gRMS](https://github.com/veryshyjelly/gRMS)
 
-- 🌱 I’m currently learning **React, Pentesting, WebRTC, Flutter**
+- 🌱 I’m currently learning **React, Networking, WebRTC, Flutter**
 
 - 💬 Ask me about **Golang, Python, React-Native**
 
