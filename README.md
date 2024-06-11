@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [xcoder](https://github.com/veryshyjelly/xcoder)
 
-- 🌱 I’m currently learning **React, Networking, WebRTC**
+- 🌱 I’m currently learning **OS, Networking, WebRTC**
 
-- 💬 Ask me about **Golang, Python, React-Native**
+- 💬 Ask me about **Golang, Rust, Python**
 
 - 📫 How to reach me **veryshyjelly@gmail.com**
 
